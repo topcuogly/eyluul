@@ -113,7 +113,8 @@ section(
     "PROJECT STATUS",
     "Early development, repository initialized. "
     "Model architecture, datasets, and evaluation "
-    "methodology are not yet finalized.",
+    "methodology are not yet finalized."
+    "The project is scheduled to begin on November 20, 2026.",
 )
 
 ttk.Separator(container, orient="horizontal").pack(
